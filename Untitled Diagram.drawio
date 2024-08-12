@@ -1,58 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-08-09T19:34:40.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="LA0X1OictXGgZHPB2gRw" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="2104" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="10b056a9c633e61c-30" value="Blockchain Certificate Platform" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-4" target="NuH24vIZPqRtiYfobQIJ-11">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NuH24vIZPqRtiYfobQIJ-4" target="NuH24vIZPqRtiYfobQIJ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="10" y="280" width="130" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Student Information Systems&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Student Information Systems&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="320" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-11" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-11" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="255" width="340" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Extract, Transform, Load (ETL)&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Extract, Transform, Load (ETL)&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="260" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Extract: Qualification&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Student Information&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Graduation Information.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Clean up and tranformation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&#x9;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Extract: Qualification&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Student Information&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Graduation Information.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Clean up and tranformation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&#x9;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="320" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-36" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="760" y="280" width="130" height="170" as="geometry" />
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="NuH24vIZPqRtiYfobQIJ-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="365" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-37" target="NuH24vIZPqRtiYfobQIJ-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NuH24vIZPqRtiYfobQIJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="365" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Staging&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="320" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-11" target="NuH24vIZPqRtiYfobQIJ-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-40" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-40" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="255" width="380" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Digital Certificate and&amp;nbsp;Badge Generation&amp;nbsp;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Digital Certificate and&amp;nbsp;Badge Generation&amp;nbsp;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="270" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-57" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-57" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1570" y="255" width="340" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Off-chain Storage&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Off-chain Storage&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1616" y="265" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-61" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Scanned Certificates&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Badges&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Certificates&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-61" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Scanned Certificates&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Badges&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Certificates&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1560" y="315" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-62" target="NuH24vIZPqRtiYfobQIJ-61">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NuH24vIZPqRtiYfobQIJ-62" target="NuH24vIZPqRtiYfobQIJ-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1540" y="650" />
@@ -60,43 +58,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-62" target="NuH24vIZPqRtiYfobQIJ-69">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NuH24vIZPqRtiYfobQIJ-62" target="NuH24vIZPqRtiYfobQIJ-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1340" y="1362.857142857143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-62" value="API" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-62" value="API" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="610" width="320" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-83" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Record Student Data and Graduation Info on Blockchain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify Student Qualification&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Store Scanned Certificate Off chain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Email Badge&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify\Fetch Badge&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify\Fetch&amp;nbsp;Blockchain Certificate&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;View Scanned Certificate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NuH24vIZPqRtiYfobQIJ-62">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-83" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Record Student Data and Graduation Info on Blockchain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify Student Qualification&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Store Scanned Certificate Off chain&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Email Badge&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify\Fetch Badge&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Verify\Fetch&amp;nbsp;Blockchain Certificate&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;View Scanned Certificate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NuH24vIZPqRtiYfobQIJ-62" vertex="1">
           <mxGeometry x="-10" y="140" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-69" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-69" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="1616" y="760" width="340" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-71" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Blockchain Network&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-71" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Blockchain Network&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1650" y="780" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-72" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Smart Contract&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Nodes&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Orders&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Organizations&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Ledger&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-72" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Smart Contract&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Nodes&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Orders&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Organizations&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Ledger&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1570" y="830" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-73" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Scanned certificate indexing&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Digital Badge Generation&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium; background-color: initial;&quot;&gt;and Emailing&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Certificate Generation&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-73" value="&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Scanned certificate indexing&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;Digital Badge Generation&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: medium; background-color: initial;&quot;&gt;and Emailing&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Digital Certificate Generation&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="330" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-78" target="NuH24vIZPqRtiYfobQIJ-83">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="NuH24vIZPqRtiYfobQIJ-78" target="NuH24vIZPqRtiYfobQIJ-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-78" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-78" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="517" y="630" width="333" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;User Interface&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;User Interface&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="630" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-80" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Student Platform&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Administrator Platform&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Third-party Platform&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-80" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Student Platform&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Administrator Platform&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Third-party Platform&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="690" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NuH24vIZPqRtiYfobQIJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NuH24vIZPqRtiYfobQIJ-40" target="NuH24vIZPqRtiYfobQIJ-62">
+        <mxCell id="NuH24vIZPqRtiYfobQIJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NuH24vIZPqRtiYfobQIJ-40" target="NuH24vIZPqRtiYfobQIJ-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5QeTUZx0bIYW7UZLodh-2" value="Mongo DB" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="755" y="320" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5QeTUZx0bIYW7UZLodh-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;Staging&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="242.5" width="120" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
