@@ -90,6 +90,9 @@
         <mxCell id="xzdhvyfGosut9zscTU-Z-48" value="" style="shape=mxgraph.cisco.misc.front_end_processor;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="xzdhvyfGosut9zscTU-Z-45">
           <mxGeometry x="240" y="74.5" width="42" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="xzdhvyfGosut9zscTU-Z-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Technical Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="61.2" y="-160" width="338.8" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
