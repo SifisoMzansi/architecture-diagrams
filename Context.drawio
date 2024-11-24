@@ -4,20 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D3OmInPlZo-9FmGytj8x-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="D3OmInPlZo-9FmGytj8x-10" value="Certificate Verification" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="D3OmInPlZo-9FmGytj8x-11" value="Certificate Verification" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="110" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-12" value="Student" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="520" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="240" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-13" value="Third Party&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="240" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D3OmInPlZo-9FmGytj8x-14" value="Administrator" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="650" width="110" height="50" as="geometry" />
+        <mxCell id="D3OmInPlZo-9FmGytj8x-14" value="Registration" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-18" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -26,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-19" value="Verification Results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="590" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-20" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -36,6 +33,24 @@
         </mxCell>
         <mxCell id="D3OmInPlZo-9FmGytj8x-21" value="Verify Certificate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3OmInPlZo-9FmGytj8x-22" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="289" as="sourcePoint" />
+            <mxPoint x="330" y="289" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D3OmInPlZo-9FmGytj8x-23" value="" style="endArrow=block;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D3OmInPlZo-9FmGytj8x-24" value="Verify Certificate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3OmInPlZo-9FmGytj8x-25" value="Verification Results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
