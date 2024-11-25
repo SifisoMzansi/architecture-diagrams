@@ -54,6 +54,9 @@
             <mxPoint x="335" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYEEuhY73eSu-s9p-O6g-22" target="zSOBBGUiXFMd7OPfAl7w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JYEEuhY73eSu-s9p-O6g-22" value="Register Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="360" width="80" height="60" as="geometry" />
         </mxCell>
@@ -146,7 +149,7 @@
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-32" value="Give permission to view certificate(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="541.5" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSOBBGUiXFMd7OPfAl7w-34" value="Give reason for rejection&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-34" value="Give rejection reason&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="680" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-37" value="Send certificate to third party email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
