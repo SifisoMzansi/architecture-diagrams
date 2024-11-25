@@ -100,18 +100,12 @@
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-23" target="_PGw2UTZ9y7LMsTRqBj8-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="305" />
+              <mxPoint x="440" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-23" value="View Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="510" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-25" target="_PGw2UTZ9y7LMsTRqBj8-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-25" value="View Certificates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="390" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_PGw2UTZ9y7LMsTRqBj8-30">
           <mxGeometry relative="1" as="geometry">
@@ -123,51 +117,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-28" target="_PGw2UTZ9y7LMsTRqBj8-32">
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-28" target="_PGw2UTZ9y7LMsTRqBj8-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="710" />
+              <mxPoint x="550" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-28" value="View connection requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="610" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-30" target="_PGw2UTZ9y7LMsTRqBj8-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-30" value="Approve request&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-30" value="Send New Connection Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="541.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-32" target="_PGw2UTZ9y7LMsTRqBj8-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-32" value="Reject request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-32" value="View approved requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-33" value="Give permission to view certificate(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="541.5" width="80" height="60" as="geometry" />
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_PGw2UTZ9y7LMsTRqBj8-34" target="_PGw2UTZ9y7LMsTRqBj8-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-34" value="Give rejection reason&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-34" value="View certificate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="680" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-35" value="Send certificate to third party email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="390" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-36" value="Edit Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="275" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_PGw2UTZ9y7LMsTRqBj8-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="420" as="sourcePoint" />
-            <mxPoint x="490" y="370" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="510" y="390" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-38" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="540" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_PGw2UTZ9y7LMsTRqBj8-39" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-41" value="View rejected requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_PGw2UTZ9y7LMsTRqBj8-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="709.5" as="sourcePoint" />
+            <mxPoint x="630" y="709.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_PGw2UTZ9y7LMsTRqBj8-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-46" value="View rejected reason" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PGw2UTZ9y7LMsTRqBj8-48" value="Verify Certificate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="560" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
