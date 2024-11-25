@@ -129,11 +129,17 @@
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-26" value="View Connection Requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="610" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSOBBGUiXFMd7OPfAl7w-28" target="zSOBBGUiXFMd7OPfAl7w-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-28" value="Approve Request&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="541.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-29" value="Reject Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-32" value="Give Permission to certificate(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="541.5" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
