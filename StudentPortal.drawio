@@ -84,14 +84,6 @@
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-20" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dashboard&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zSOBBGUiXFMd7OPfAl7w-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSOBBGUiXFMd7OPfAl7w-22" target="zSOBBGUiXFMd7OPfAl7w-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zSOBBGUiXFMd7OPfAl7w-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="560" as="sourcePoint" />
@@ -100,6 +92,13 @@
               <mxPoint x="230" y="561" />
               <mxPoint x="250" y="561" />
               <mxPoint x="250" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSOBBGUiXFMd7OPfAl7w-22" target="zSOBBGUiXFMd7OPfAl7w-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -152,6 +151,9 @@
         </mxCell>
         <mxCell id="zSOBBGUiXFMd7OPfAl7w-37" value="Send certificate to third party email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zSOBBGUiXFMd7OPfAl7w-39" value="Edit Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="275" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
