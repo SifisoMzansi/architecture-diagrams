@@ -4,8 +4,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lTOfxialVhdVEtE5bD-L-1" value="Blockchain Certificate Verification Platform&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="lTOfxialVhdVEtE5bD-L-1" value="&lt;b&gt;Blockchain Certificate Verification Platform&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-2" value="&lt;b&gt;Student&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTOfxialVhdVEtE5bD-L-2" target="lTOfxialVhdVEtE5bD-L-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="170" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-4" value="View Certificate&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lTOfxialVhdVEtE5bD-L-3">
+          <mxGeometry x="0.3157" y="-1" relative="1" as="geometry">
+            <mxPoint x="-36" y="-45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-6" value="Approve\Reject Certificate viewing Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="339.99776619134275" y="150.00334421650535" as="geometry">
+            <mxPoint x="-14" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lTOfxialVhdVEtE5bD-L-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="150" as="sourcePoint" />
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-10" value="Certificate Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lTOfxialVhdVEtE5bD-L-8">
+          <mxGeometry x="0.0785" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
