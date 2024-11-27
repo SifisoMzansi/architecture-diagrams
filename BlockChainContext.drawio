@@ -10,13 +10,11 @@
         <mxCell id="lTOfxialVhdVEtE5bD-L-2" value="&lt;b&gt;Student&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lTOfxialVhdVEtE5bD-L-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTOfxialVhdVEtE5bD-L-2" target="lTOfxialVhdVEtE5bD-L-1">
+        <mxCell id="lTOfxialVhdVEtE5bD-L-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.283;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lTOfxialVhdVEtE5bD-L-2" target="lTOfxialVhdVEtE5bD-L-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="170" as="sourcePoint" />
             <mxPoint x="170" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="230" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lTOfxialVhdVEtE5bD-L-4" value="View Certificate&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lTOfxialVhdVEtE5bD-L-3">
@@ -39,6 +37,9 @@
           <mxGeometry x="0.0785" y="1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lTOfxialVhdVEtE5bD-L-11" value="Third-party Connection Requests" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
