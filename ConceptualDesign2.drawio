@@ -100,8 +100,8 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-34" value="Blockchain Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store in the blockchain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="740" width="170" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store the certificate in the blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="740" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-38" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="70" height="30" as="geometry" />
