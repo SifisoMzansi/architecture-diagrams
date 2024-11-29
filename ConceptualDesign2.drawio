@@ -103,6 +103,21 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store in the blockchain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="550" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-38" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-40" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-41" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-42" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-43" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
