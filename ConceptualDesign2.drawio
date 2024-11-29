@@ -186,6 +186,9 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-70" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-71" value="6- All calls to the blockchain are authenticated either on SQL or Azure AD&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="770" width="410" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
