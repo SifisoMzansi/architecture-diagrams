@@ -127,6 +127,11 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-44" target="k3ovCwQThVza27bVeW9s-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-115" value="9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3ovCwQThVza27bVeW9s-91">
+          <mxGeometry x="-0.0833" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-44" value="Registration/Authentication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="468" width="760" height="70" as="geometry" />
         </mxCell>
@@ -182,14 +187,19 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-70" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="568" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-71" value="6- All calls to the blockchain are authenticated either on SQL or Azure AD&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1140" width="410" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-71" value="9- All calls to the platforms are authenticated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1100" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-82" value="User Api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="350" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-82" target="k3ovCwQThVza27bVeW9s-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-117" value="10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3ovCwQThVza27bVeW9s-87">
+          <mxGeometry x="-0.0585" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-94" target="k3ovCwQThVza27bVeW9s-50">
           <mxGeometry relative="1" as="geometry" />
@@ -216,11 +226,14 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-112" value="6- Students Register\Authenticate on prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-15" y="1010" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-113" value="7- Thhird parties Register\Authenticate on prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1040" width="270" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-113" value="7- Third parties Register\Authenticate on prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1040" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-114" value="8- Graduations team will&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1070" width="180" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-114" value="8- Graduations team will login via AD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1070" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-116" value="10. All front-end calls to the blockchain to download a certificate, verify a certificate e.t.c come in via the User Api. User Api will have a catalogue of services&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1130" width="820" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
