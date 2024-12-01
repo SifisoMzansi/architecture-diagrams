@@ -127,12 +127,17 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-44" target="k3ovCwQThVza27bVeW9s-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-44" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="k3ovCwQThVza27bVeW9s-44" value="Registration/Authentication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="468" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-109" value="6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3ovCwQThVza27bVeW9s-89">
+          <mxGeometry x="0.2651" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-50" value="Student Portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -141,12 +146,22 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-52" target="k3ovCwQThVza27bVeW9s-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-110" value="7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3ovCwQThVza27bVeW9s-88">
+          <mxGeometry x="0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-52" value="Third Party Portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="598" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-111" value="8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k3ovCwQThVza27bVeW9s-90">
+          <mxGeometry x="0.0936" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-54" value="Admin Portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -168,7 +183,7 @@
           <mxGeometry x="310" y="568" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-71" value="6- All calls to the blockchain are authenticated either on SQL or Azure AD&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="1010" width="410" height="30" as="geometry" />
+          <mxGeometry x="-20" y="1140" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-82" value="User Api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="350" width="760" height="70" as="geometry" />
@@ -197,6 +212,15 @@
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-96" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Graduations Team&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
           <mxGeometry x="681.5" y="710" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-112" value="6- Students Register\Authenticate on prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1010" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-113" value="7- Thhird parties Register\Authenticate on prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1040" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-114" value="8- Graduations team will&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1070" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
