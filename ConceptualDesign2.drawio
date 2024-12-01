@@ -30,7 +30,7 @@
           <mxGeometry x="5" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-7" value="0 - Data Import, from UNISA SIS to&amp;nbsp; Staging Area&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="720" width="280" height="30" as="geometry" />
+          <mxGeometry x="-15" y="830" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-8" target="k3ovCwQThVza27bVeW9s-12">
           <mxGeometry relative="1" as="geometry">
@@ -45,8 +45,8 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-8" value="Cert Generator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-11" value="&amp;nbsp; &amp;nbsp; 1 - Listener picks up data from import staging area and generates a blockchain certificate&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="750" width="510" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-11" value="&amp;nbsp; &amp;nbsp; 1 - MQ Listener picks up data from import staging area and generates a blockchain certificate&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="860" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-12" target="k3ovCwQThVza27bVeW9s-25">
           <mxGeometry relative="1" as="geometry" />
@@ -59,8 +59,8 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-12" value="File Upload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-19" value="&amp;nbsp; &amp;nbsp; 2 - File upload picks up data from byte stream of cert, hashes + applies security and uploads to secure storage." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="780" width="610" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-19" value="&amp;nbsp; &amp;nbsp; 2 - File upload (via MQ )picks up byte stream of cert, hashes + applies security and uploads pdf file to secure storage. ." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="890" width="650" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-2" target="k3ovCwQThVza27bVeW9s-6">
           <mxGeometry relative="1" as="geometry">
@@ -98,16 +98,16 @@
           <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-28" value="&amp;nbsp; &amp;nbsp; 3- Picks file and send to mediator for proper formating." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="810" width="320" height="30" as="geometry" />
+          <mxGeometry x="-30" y="920" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-33" value="&amp;nbsp; &amp;nbsp; 4- Send payload to blockchain Rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="840" width="240" height="30" as="geometry" />
+          <mxGeometry x="-30" y="950" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-34" value="Blockchain Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store the certificate in the blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="870" width="280" height="30" as="geometry" />
+          <mxGeometry x="-30" y="980" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-38" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="70" height="30" as="geometry" />
@@ -168,13 +168,35 @@
           <mxGeometry x="310" y="568" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-71" value="6- All calls to the blockchain are authenticated either on SQL or Azure AD&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="900" width="410" height="30" as="geometry" />
+          <mxGeometry x="-20" y="1010" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-82" value="User Api" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry y="350" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-82" target="k3ovCwQThVza27bVeW9s-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-94" target="k3ovCwQThVza27bVeW9s-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-94" value="Student" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="46.5" y="700" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="378.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-95" value="Company Rep" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3ovCwQThVza27bVeW9s-96" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Graduations Team&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="681.5" y="710" width="37" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
