@@ -97,17 +97,17 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-25" value="Mediator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-28" value="&amp;nbsp; &amp;nbsp; 3- Picks file and send to mediator for proper formating." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="920" width="320" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-28" value="&amp;nbsp; &amp;nbsp; 3- Picks up the file and send to mediator for proper formating." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="920" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-33" value="&amp;nbsp; &amp;nbsp; 4- Send payload to blockchain Rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="950" width="240" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-33" value="&amp;nbsp; &amp;nbsp; 4- Send payload with student credentials to blockchain Rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="950" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-34" value="Blockchain Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store the certificate in the blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="980" width="280" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-37" value="&amp;nbsp; &amp;nbsp; 5- Store the student credentials in the blockchain network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="980" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-38" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="70" height="30" as="geometry" />
@@ -158,7 +158,7 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-67" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="568" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-68" value="On Prem/&lt;div&gt;Azure&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="k3ovCwQThVza27bVeW9s-68" value="On Prem/&lt;div&gt;Azure AD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="433" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-69" value="On Prem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
