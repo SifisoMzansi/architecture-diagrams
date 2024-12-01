@@ -59,8 +59,8 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-12" value="File Upload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-19" value="&amp;nbsp; &amp;nbsp; 2 - File upload (via MQ )picks up byte stream of cert, hashes + applies security and uploads pdf file to secure storage. ." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="890" width="650" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-19" value="&amp;nbsp; &amp;nbsp; 2 - File upload (via MQ )picks up byte stream of cert,.It hashes then applies security and uploads the pdf file to secure storage. ." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="890" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3ovCwQThVza27bVeW9s-2" target="k3ovCwQThVza27bVeW9s-6">
           <mxGeometry relative="1" as="geometry">
@@ -97,11 +97,11 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-25" value="Mediator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-28" value="&amp;nbsp; &amp;nbsp; 3- Picks up the file and send to mediator for proper formating." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="920" width="350" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-28" value="&amp;nbsp; &amp;nbsp; 3 - Picks up the file and send to mediator for proper formating." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="920" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-33" value="&amp;nbsp; &amp;nbsp; 4- Send payload with student credentials to blockchain Rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="950" width="360" height="30" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-33" value="&amp;nbsp; &amp;nbsp; 4 - Sends payload with student credentials to blockchain Rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="950" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k3ovCwQThVza27bVeW9s-34" value="Blockchain Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="80" as="geometry" />
@@ -232,8 +232,8 @@
         <mxCell id="k3ovCwQThVza27bVeW9s-114" value="8- Graduations team will login via AD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-15" y="1070" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3ovCwQThVza27bVeW9s-116" value="10. All front-end calls to the blockchain to download a certificate, verify a certificate e.t.c come in via the User Api. User Api will have a catalogue of services&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="1130" width="820" height="40" as="geometry" />
+        <mxCell id="k3ovCwQThVza27bVeW9s-116" value="10. All front-end calls to the blockchain to download a certificate, verify a certificate e.t.c come in via the User Api. User Api will have a catalogue of&amp;nbsp;&lt;div&gt;available services&amp;nbsp;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1120" width="780" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
