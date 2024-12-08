@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="pbgu9Ib_NQCYQmgb1kYV">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s9V0wqylUVIboe_zS5LX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9V0wqylUVIboe_zS5LX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-1" value="CMPCPRDLZ1&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-2" value="CMPC247LZ1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9V0wqylUVIboe_zS5LX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="230" />
+              <mxPoint x="460" y="201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-4" value="2. FTP .dat file from CMPCPRDLZ1 to CMPC247LZ1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-5" value="3. Load data to warehouse&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-12" value="Daily ETL" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-3" value="1. Extract data and Create .dat file in UNIX folder on&amp;nbsp;CMPCPRDLZ1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="s9V0wqylUVIboe_zS5LX-12">
+          <mxGeometry x="10" y="25" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s9V0wqylUVIboe_zS5LX-3" target="s9V0wqylUVIboe_zS5LX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-15" value="Warehouse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-16" value="Corporate Compass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9V0wqylUVIboe_zS5LX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s9V0wqylUVIboe_zS5LX-12" target="s9V0wqylUVIboe_zS5LX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="160" />
+              <mxPoint x="570" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
