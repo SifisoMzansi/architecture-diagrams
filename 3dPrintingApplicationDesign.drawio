@@ -42,9 +42,6 @@
         <mxCell id="nD1_txr7TnveIEc3btMG-9" value="users.Api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nD1_txr7TnveIEc3btMG-13" value="printer.Api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="580" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="nD1_txr7TnveIEc3btMG-14" value="serviceCatalog.Api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
         </mxCell>
