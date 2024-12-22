@@ -103,18 +103,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HKxHVvfvl9pLq84g_FQR-14" value="Worklow" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="370" height="160" as="geometry" />
+          <mxGeometry x="55" y="650" width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-18" value="&lt;li&gt;&lt;strong&gt;Student uploads STL file.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform validates and estimates costs.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Student customizes settings and pays.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform queues job and sends it to Formlabs Form 3L.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Student monitors progress via live video or dashboard.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-14">
-          <mxGeometry y="30" width="360" height="100" as="geometry" />
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-18" value="&lt;ol&gt;&lt;li&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Student uploads STL file.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform validates file.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Generate Quote and Send to requestor.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform queues job and sends it to Formlabs Form 3L.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Student monitors progress via live video or dashboard.&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-14">
+          <mxGeometry y="20" width="380" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HKxHVvfvl9pLq84g_FQR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-30" target="HKxHVvfvl9pLq84g_FQR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-30" value="Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-30" value="1. Requestor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-31" value="3D printing platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-31" target="HKxHVvfvl9pLq84g_FQR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-31" value="2. 3D printing platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKxHVvfvl9pLq84g_FQR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-32" target="HKxHVvfvl9pLq84g_FQR-31">
@@ -123,8 +126,34 @@
         <mxCell id="HKxHVvfvl9pLq84g_FQR-32" value="STL File" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="385" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;File upload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="333" width="80" height="40" as="geometry" />
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-35" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Student uploads STL file&lt;br&gt;&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="338" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-36" value="Is file Valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-39" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="518" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-40" value="3. Generate Quote&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-43" value="Send Quote" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="610" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
