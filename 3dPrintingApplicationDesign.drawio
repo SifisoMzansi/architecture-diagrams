@@ -156,7 +156,7 @@
           <mxGeometry x="165" y="610" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9RPeVKcNnwP2lE6VIO22-1" value="LAN" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="940" width="850" height="340" as="geometry" />
+          <mxGeometry x="120" y="980" width="850" height="340" as="geometry" />
         </mxCell>
         <mxCell id="HKxHVvfvl9pLq84g_FQR-45" value="formlabs form 3l" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RPeVKcNnwP2lE6VIO22-1" vertex="1">
           <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
@@ -173,23 +173,14 @@
             <mxPoint x="260" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9RPeVKcNnwP2lE6VIO22-5" value="1- Download and install the FormServer application&lt;div&gt;&amp;nbsp;on the workstation or server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
-          <mxGeometry x="290" y="188" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9RPeVKcNnwP2lE6VIO22-6" value="2- Configure FormServer for local access&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
-          <mxGeometry x="290" y="220" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9RPeVKcNnwP2lE6VIO22-7" value="3- Use FormServer to detect and register the printer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
-          <mxGeometry x="290" y="238" width="300" height="30" as="geometry" />
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-5" value="1 - Download and install the FormServer application&lt;div&gt;&amp;nbsp;on the workstation or server.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;2 - Configure FormServer for local access.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;3 - Use FormServer to detect and register the printer.&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;4 - Deploy Api&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="290" y="179" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9RPeVKcNnwP2lE6VIO22-8" value="1. Ensure Printer is connected to LAN and has IP&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
           <mxGeometry y="198" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9RPeVKcNnwP2lE6VIO22-12" value="Workstation running FormServer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
           <mxGeometry x="300" y="40" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9RPeVKcNnwP2lE6VIO22-16" value="4 - Deploy API&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
-          <mxGeometry x="290" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
