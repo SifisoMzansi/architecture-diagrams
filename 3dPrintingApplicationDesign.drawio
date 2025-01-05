@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="RAHr6wCWqm_RJsUcqQ_r">
     <mxGraphModel dx="1120" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,67 +81,67 @@
         <mxCell id="nD1_txr7TnveIEc3btMG-30" value="&lt;b&gt;&lt;u&gt;Services&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="20" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-4" value="Service Catalog" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-4" value="Service Catalog" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="210" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-6" value="GET /services{id} -&amp;nbsp;Get details about a specific service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-4">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-6" value="GET /services{id} -&amp;nbsp;Get details about a specific service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HKxHVvfvl9pLq84g_FQR-4" vertex="1">
           <mxGeometry x="-10" y="40" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-5" value="GET /services - returns list of services available&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-4">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-5" value="GET /services - returns list of services available&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HKxHVvfvl9pLq84g_FQR-4" vertex="1">
           <mxGeometry x="-10" y="20" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-8" value="POST /services -Add service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-4">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-8" value="POST /services -Add service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HKxHVvfvl9pLq84g_FQR-4" vertex="1">
           <mxGeometry x="-10" y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-9" value="PUT /services -Update service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-4">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-9" value="PUT /services -Update service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HKxHVvfvl9pLq84g_FQR-4" vertex="1">
           <mxGeometry x="-10" y="85" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="259.5" as="sourcePoint" />
             <mxPoint x="720" y="259.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-14" value="Worklow" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-14" value="Worklow" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="650" width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-18" value="&lt;ol&gt;&lt;li&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Requestor uploads 3D model file (STL or OBJ format) .&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform validates file.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Generate Quote and Send to requestor.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform queues job and sends it to Formlabs Form 3L.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Student monitors progress via live video or dashboard.&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HKxHVvfvl9pLq84g_FQR-14">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-18" value="&lt;ol&gt;&lt;li&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Requestor uploads 3D model file (STL or OBJ format) .&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform validates file.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Generate Quote and Send to requestor.&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Platform queues job and sends it to Formlabs Form 3L.&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Student monitors progress via live video or dashboard.&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HKxHVvfvl9pLq84g_FQR-14" vertex="1">
           <mxGeometry y="20" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-30" target="HKxHVvfvl9pLq84g_FQR-32">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKxHVvfvl9pLq84g_FQR-30" target="HKxHVvfvl9pLq84g_FQR-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-30" value="1. Requestor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-30" value="1. Requestor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-31" target="HKxHVvfvl9pLq84g_FQR-36">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HKxHVvfvl9pLq84g_FQR-31" target="HKxHVvfvl9pLq84g_FQR-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-31" value="2. 3D printing platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-31" value="2. 3D printing platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-32" target="HKxHVvfvl9pLq84g_FQR-31">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HKxHVvfvl9pLq84g_FQR-32" target="HKxHVvfvl9pLq84g_FQR-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-32" value="STL File" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-32" value="STL File" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="385" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-35" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Student uploads STL file&lt;br&gt;&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-35" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Student uploads STL file&lt;br&gt;&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="150" y="338" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-30">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-40">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HKxHVvfvl9pLq84g_FQR-36" target="HKxHVvfvl9pLq84g_FQR-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-36" value="Is file Valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-36" value="Is file Valid" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-39" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-39" value="Reject" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="518" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKxHVvfvl9pLq84g_FQR-40">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKxHVvfvl9pLq84g_FQR-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="550" as="targetPoint" />
             <Array as="points">
@@ -149,17 +149,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-40" value="3. Generate Quote&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-40" value="3. Generate Quote&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-43" value="Send Quote" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-43" value="Send Quote" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="165" y="610" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/426_box_3d_cube_smartphone_product_3d_print_printing-128.png" vertex="1" parent="1">
-          <mxGeometry x="32" y="890" width="128" height="128" as="geometry" />
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-1" value="LAN" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="940" width="850" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="HKxHVvfvl9pLq84g_FQR-45" value="3d printer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="868" width="70" height="30" as="geometry" />
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-45" value="formlabs form 3l" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="9RPeVKcNnwP2lE6VIO22-1" vertex="1">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HKxHVvfvl9pLq84g_FQR-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/426_box_3d_cube_smartphone_product_3d_print_printing-128.png" parent="9RPeVKcNnwP2lE6VIO22-1" vertex="1">
+          <mxGeometry x="10" y="60" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="370" y="69" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-5" value="1- Download and install the FormServer application&lt;div&gt;&amp;nbsp;on the workstation or server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="290" y="188" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-6" value="2- Configure FormServer for local access&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="290" y="220" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-7" value="3- Use FormServer to detect and register the printer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="290" y="238" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-8" value="1. Ensure Printer is connected to LAN and has IP&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry y="198" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-12" value="Workstation running FormServer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="300" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9RPeVKcNnwP2lE6VIO22-16" value="4 - Deploy API&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9RPeVKcNnwP2lE6VIO22-1">
+          <mxGeometry x="290" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
