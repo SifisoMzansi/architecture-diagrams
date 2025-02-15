@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Micro Services API Gateway&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" width="350" height="1140" as="geometry" />
+          <mxGeometry x="330" width="350" height="920" as="geometry" />
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;auth-api&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-24">
           <mxGeometry x="10" y="70" width="310" height="140" as="geometry" />
@@ -246,31 +246,67 @@
           <mxGeometry x="10" y="400" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-35" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-32">
-          <mxGeometry x="20" y="43.6" width="90" height="86.4" as="geometry" />
-        </mxCell>
-        <mxCell id="5rrc9BB_ldE9aC9MNipi-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Blockchain API&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-24">
-          <mxGeometry x="20" y="940" width="310" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="5rrc9BB_ldE9aC9MNipi-37" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.mongodb;gradientColor=#DFDEDE" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-36">
-          <mxGeometry x="160" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5rrc9BB_ldE9aC9MNipi-38" value="Mongo DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-36">
-          <mxGeometry x="170" y="30" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5rrc9BB_ldE9aC9MNipi-39" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-36">
-          <mxGeometry x="20" y="43.6" width="90" height="86.4" as="geometry" />
+          <mxGeometry x="120" y="40" width="90" height="86.4" as="geometry" />
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;queue-service-api&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-24">
           <mxGeometry x="10" y="580" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-43" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-40">
-          <mxGeometry x="20" y="43.6" width="90" height="86.4" as="geometry" />
+          <mxGeometry x="120" y="43.6" width="90" height="86.4" as="geometry" />
         </mxCell>
-        <mxCell id="5rrc9BB_ldE9aC9MNipi-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Verification API&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-24">
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3dprinter-integration-api&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-24">
           <mxGeometry x="10" y="750" width="310" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5rrc9BB_ldE9aC9MNipi-47" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-44">
-          <mxGeometry x="20" y="43.6" width="90" height="86.4" as="geometry" />
+          <mxGeometry x="110" y="40" width="90" height="86.4" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="400" as="sourcePoint" />
+            <mxPoint x="290" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-49" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="920" y="590" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="740" as="sourcePoint" />
+            <mxPoint x="820" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-51" value="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Redis Cache&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="880" y="380" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-51">
+          <mxGeometry x="1220" y="540" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-53" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-51">
+          <mxGeometry x="40" y="54.56" width="124.15" height="100.88" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="484.17" as="sourcePoint" />
+            <mxPoint x="800" y="484.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Rabbit MQ&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="60" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-56" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mq;direction=south;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-55">
+          <mxGeometry x="65" y="160" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-57" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="5rrc9BB_ldE9aC9MNipi-55">
+          <mxGeometry x="53.480000000000004" y="30" width="113.04" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="189.17000000000002" as="sourcePoint" />
+            <mxPoint x="810" y="189.17000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5rrc9BB_ldE9aC9MNipi-59" value="3D PRINTER" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="920" y="780" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
