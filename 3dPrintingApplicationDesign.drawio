@@ -25,7 +25,7 @@
         <mxCell id="nD1_txr7TnveIEc3btMG-8" value="users.Api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nD1_txr7TnveIEc3btMG-16" value="3dprinter.Api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nD1_txr7TnveIEc3btMG-16" value="3dprinter-integration-Api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nD1_txr7TnveIEc3btMG-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
