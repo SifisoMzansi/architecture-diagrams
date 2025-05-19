@@ -1,9 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="amXNBqqrVpMp03_Dgg6R">
-    <mxGraphModel>
+    <mxGraphModel dx="1111" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovFJ5FpkLuKKLiz-l9WO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-1" value="Browse" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-2" value="&lt;b&gt;&lt;u&gt;Service Catalogue&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-1">
+          <mxGeometry x="25" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-3" value="1. Agriculture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-1">
+          <mxGeometry x="30" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-4" value="2. Arial photography" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-1">
+          <mxGeometry x="30" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-5" value="3. Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-1">
+          <mxGeometry x="30" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovFJ5FpkLuKKLiz-l9WO-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-6" value="Profile" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-7" value="&lt;b&gt;&lt;u&gt;Create user profile or login&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-6">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-8" value="1. Register" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-6">
+          <mxGeometry x="35" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-9" value="2. Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-6">
+          <mxGeometry x="35" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovFJ5FpkLuKKLiz-l9WO-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-11" value="Payment" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-12" value="&lt;b&gt;&lt;u&gt;Make payment&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-11">
+          <mxGeometry x="35" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-13" value="1. EFT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-11">
+          <mxGeometry x="45" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-14" value="2. Card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-11">
+          <mxGeometry x="45" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ovFJ5FpkLuKKLiz-l9WO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-15" value="Scheduling" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-16" value="&lt;b&gt;&lt;u&gt;Create schedule&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-15">
+          <mxGeometry x="30" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-18" value="1. Allocate pilot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-15">
+          <mxGeometry x="25" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-19" value="Reporting" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-20" value="&lt;b&gt;&lt;u&gt;Create schedule&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-19">
+          <mxGeometry x="30" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-21" value="1. Data processing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-19">
+          <mxGeometry x="15" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovFJ5FpkLuKKLiz-l9WO-22" value="2. Report Publishing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-19">
+          <mxGeometry x="15" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
