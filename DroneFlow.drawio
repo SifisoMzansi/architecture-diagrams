@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="2">
   <diagram name="Page-1" id="amXNBqqrVpMp03_Dgg6R">
     <mxGraphModel dx="1111" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,6 +83,50 @@
         </mxCell>
         <mxCell id="ovFJ5FpkLuKKLiz-l9WO-22" value="2. Report Publishing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ovFJ5FpkLuKKLiz-l9WO-19">
           <mxGeometry x="15" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4E0xv8-MUZMJFcUISB96" name="Page-2">
+    <mxGraphModel dx="926" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-1" value="Platform" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-2" value="Profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="25" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-3" value="Service Catalogue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="50" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-4" value="Payments" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="20" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-5" value="Scheduling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="20" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-6" value="Delivery/Deployment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="50" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-14" value="Pricing&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EiY81Y50MjG4kWlAtqPW-1">
+          <mxGeometry x="15" y="115" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-8" value="Agriculcture specific requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-9" value="Protection Service specific&amp;nbsp;&lt;div&gt;requirements&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-10" value="Other area specific&amp;nbsp;&lt;div&gt;requirements&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-15" value="Drone Hire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-16" value="Packaged Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
