@@ -131,6 +131,9 @@
         <mxCell id="EiY81Y50MjG4kWlAtqPW-17" value="Reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="25" width="220" height="275" as="geometry" />
         </mxCell>
+        <mxCell id="EiY81Y50MjG4kWlAtqPW-18" value="Asset Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
