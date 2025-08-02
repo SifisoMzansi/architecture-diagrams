@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="AO27_slU9Cfzta5wFOIa">
-    <mxGraphModel>
+    <mxGraphModel dx="1111" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-26" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-27" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-28" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-29" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-30" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-31" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
