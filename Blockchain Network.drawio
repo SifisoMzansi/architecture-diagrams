@@ -208,9 +208,6 @@
             <mxPoint x="740" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FyO9KqEAhB6Vg3ERMSdC-91" value="Transaction Blocks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="161.5" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FyO9KqEAhB6Vg3ERMSdC-93" value="Consensus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="267.7" width="90" height="30" as="geometry" />
         </mxCell>
