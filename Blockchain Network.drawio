@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyO9KqEAhB6Vg3ERMSdC-79" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/smart_contract.svg;" vertex="1" parent="1">
-          <mxGeometry x="464.97" y="228" width="52" height="52" as="geometry" />
+          <mxGeometry x="481.48" y="219.7" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FyO9KqEAhB6Vg3ERMSdC-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FyO9KqEAhB6Vg3ERMSdC-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,15 +169,15 @@
             <mxPoint x="490" y="148" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FyO9KqEAhB6Vg3ERMSdC-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.917;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FyO9KqEAhB6Vg3ERMSdC-79">
+        <mxCell id="FyO9KqEAhB6Vg3ERMSdC-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="FyO9KqEAhB6Vg3ERMSdC-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="546.8328157299975" y="230.2835921350013" as="sourcePoint" />
-            <mxPoint x="560" y="200" as="targetPoint" />
+            <mxPoint x="502.654" y="225.466" as="sourcePoint" />
+            <mxPoint x="550" y="195.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FyO9KqEAhB6Vg3ERMSdC-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.601;entryY=1.195;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FyO9KqEAhB6Vg3ERMSdC-79" target="FyO9KqEAhB6Vg3ERMSdC-69">
+        <mxCell id="FyO9KqEAhB6Vg3ERMSdC-82" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.601;entryY=1.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FyO9KqEAhB6Vg3ERMSdC-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="213.70000000000005" as="sourcePoint" />
+            <mxPoint x="510" y="210" as="sourcePoint" />
             <mxPoint x="670" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
