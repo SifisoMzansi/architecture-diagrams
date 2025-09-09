@@ -118,6 +118,30 @@
         <mxCell id="S6FOuybIhwKvVRD5kidw-46" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Proof Of Work (Pow)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="-60" width="260" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-47" value="&lt;b&gt;Process Flow: 1. Miners compete to solve puzzle&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-48" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2. First valid solution wins&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-49" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 3. Block added&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="S6FOuybIhwKvVRD5kidw-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="361" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6FOuybIhwKvVRD5kidw-52" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Figure 1.5: Proof Of Work (PoW)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
