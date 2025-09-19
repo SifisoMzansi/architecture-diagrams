@@ -1,9 +1,127 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="E_oWfKzbNxq6psgULvm1">
-    <mxGraphModel>
+    <mxGraphModel dx="2524" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-121" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="680" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-122" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-121">
+          <mxGeometry width="680" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-123" value="Consensus Mechanism" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#F0FF24;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-122">
+          <mxGeometry width="136" height="64" as="geometry">
+            <mxRectangle width="136" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-124" value="Consensus Type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#F0FF24;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-122">
+          <mxGeometry x="136" width="136" height="64" as="geometry">
+            <mxRectangle width="136" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-125" value="Scalability Potential" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#F0FF24;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-122">
+          <mxGeometry x="272" width="136" height="64" as="geometry">
+            <mxRectangle width="136" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-126" value="Energy Requirements" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#F0FF24;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-122">
+          <mxGeometry x="408" width="136" height="64" as="geometry">
+            <mxRectangle width="136" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-127" value="Susceptibility to Centralization" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#F0FF24;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-122">
+          <mxGeometry x="544" width="136" height="64" as="geometry">
+            <mxRectangle width="136" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-129" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-121">
+          <mxGeometry y="64" width="680" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-130" value="Proof-of-Work" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-129">
+          <mxGeometry width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-131" value="Competitive puzzle-solving" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-129">
+          <mxGeometry x="136" width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-132" value="Limited (bottlenecks due to block size and computational difficulty)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-129">
+          <mxGeometry x="272" width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-133" value="Very High (significant energy consumption)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-129">
+          <mxGeometry x="408" width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-134" value="Medium to High&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-129">
+          <mxGeometry x="544" width="136" height="62" as="geometry">
+            <mxRectangle width="136" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-136" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-121">
+          <mxGeometry y="126" width="680" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-137" value="Proof-of-Stake" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-136">
+          <mxGeometry width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-138" value="Stake-based selection" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-136">
+          <mxGeometry x="136" width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-139" value="Improved" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-136">
+          <mxGeometry x="272" width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-140" value="Low - signigicantly lower thatn PoW&amp;nbsp;&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-136">
+          <mxGeometry x="408" width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-141" value="Medium - potential for centralization of staked assets by large holders" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-136">
+          <mxGeometry x="544" width="136" height="63" as="geometry">
+            <mxRectangle width="136" height="63" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-143" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-121">
+          <mxGeometry y="189" width="680" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-144" value="Proof-of-Authority" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-143">
+          <mxGeometry width="136" height="101" as="geometry">
+            <mxRectangle width="136" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-145" value="Vetted, preselected&amp;nbsp; validator nodes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-143">
+          <mxGeometry x="136" width="136" height="101" as="geometry">
+            <mxRectangle width="136" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-146" value="High  - high hroughput and low latency" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-143">
+          <mxGeometry x="272" width="136" height="101" as="geometry">
+            <mxRectangle width="136" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-147" value="Low" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-143">
+          <mxGeometry x="408" width="136" height="101" as="geometry">
+            <mxRectangle width="136" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-148" value="High - reliance on a fixed authority&amp;nbsp; makes it&amp;nbsp; vulnerable to collusion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6gw5WqEvq5yhOJlpp2jT-143">
+          <mxGeometry x="544" width="136" height="101" as="geometry">
+            <mxRectangle width="136" height="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gw5WqEvq5yhOJlpp2jT-150" value="Table 1.1 Summary of Consensus Mechanisms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
