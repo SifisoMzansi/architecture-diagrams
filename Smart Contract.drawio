@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="FuapwNgKwrLi2nfUB71t">
-    <mxGraphModel>
+    <mxGraphModel dx="1111" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2F546C;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcfwBVkOoydfdg2oq4Ly-4" target="YcfwBVkOoydfdg2oq4Ly-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-4" value="Code + Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Smart Contract&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcfwBVkOoydfdg2oq4Ly-6" target="YcfwBVkOoydfdg2oq4Ly-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-6" value="If - When Conditions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-10" value="Trigger Events" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YcfwBVkOoydfdg2oq4Ly-12" value="Auto executed on all nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
