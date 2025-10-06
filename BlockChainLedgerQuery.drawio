@@ -105,8 +105,8 @@
         <mxCell id="0JgFmAXodG2SID1Pz15g-42" value="Blockchain Ledger with a Thousand Blocks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="90" y="55" width="370" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0JgFmAXodG2SID1Pz15g-43" value="Figure 1.7: Querying a blockchain ledger&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="280" width="240" height="30" as="geometry" />
+        <mxCell id="0JgFmAXodG2SID1Pz15g-43" value="&lt;b&gt;Figure 1.7: Querying a blockchain ledger&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
