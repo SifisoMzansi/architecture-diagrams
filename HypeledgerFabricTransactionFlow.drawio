@@ -25,8 +25,8 @@
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send&amp;nbsp; Endorsed Transaction" vertex="1">
           <mxGeometry height="30" width="90" x="490" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Ordering Sevice" vertex="1">
-          <mxGeometry height="160" width="160" x="600" y="40" as="geometry" />
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Ordering Sevice (Batching)" vertex="1">
+          <mxGeometry height="160" width="180" x="600" y="40" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-9" parent="y4Rq7RO2rklmwW2ovoKj-8" style="whiteSpace=wrap;html=1;" value="Orderer 1" vertex="1">
           <mxGeometry height="30" width="140" x="10" y="40" as="geometry" />
