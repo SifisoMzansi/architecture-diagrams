@@ -8,7 +8,7 @@
           <mxGeometry height="160" width="160" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-2" parent="y4Rq7RO2rklmwW2ovoKj-1" style="whiteSpace=wrap;html=1;" value="Transaction Proposal" vertex="1">
-          <mxGeometry height="60" width="140" x="10" y="30" as="geometry" />
+          <mxGeometry height="60" width="140" x="10" y="60" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send Proposal" vertex="1">
           <mxGeometry height="30" width="90" x="210" y="80" as="geometry" />
