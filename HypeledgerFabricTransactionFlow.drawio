@@ -7,23 +7,23 @@
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Client Application" vertex="1">
           <mxGeometry height="160" width="160" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-2" parent="y4Rq7RO2rklmwW2ovoKj-1" style="whiteSpace=wrap;html=1;" value="1. Transaction Proposal" vertex="1">
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-2" parent="y4Rq7RO2rklmwW2ovoKj-1" style="whiteSpace=wrap;html=1;" value="Transaction Proposal" vertex="1">
           <mxGeometry height="60" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send Proposal" vertex="1">
-          <mxGeometry height="30" width="60" x="220" y="80" as="geometry" />
+          <mxGeometry height="30" width="90" x="210" y="80" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Endorsing peers" vertex="1">
           <mxGeometry height="160" width="160" x="320" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-5" parent="y4Rq7RO2rklmwW2ovoKj-4" style="whiteSpace=wrap;html=1;" value="2. Simulate Transaction&amp;nbsp;" vertex="1">
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-5" parent="y4Rq7RO2rklmwW2ovoKj-4" style="whiteSpace=wrap;html=1;" value="Simulate Transaction&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="140" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-6" parent="y4Rq7RO2rklmwW2ovoKj-4" style="whiteSpace=wrap;html=1;" value="3. Endorse Results&amp;nbsp;" vertex="1">
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-6" parent="y4Rq7RO2rklmwW2ovoKj-4" style="whiteSpace=wrap;html=1;" value="Endorse Results&amp;nbsp;" vertex="1">
           <mxGeometry height="50" width="140" x="10" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send Proposal" vertex="1">
-          <mxGeometry height="30" width="60" x="500" y="80" as="geometry" />
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Send&amp;nbsp; Endorsed Transaction" vertex="1">
+          <mxGeometry height="30" width="90" x="490" y="80" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Ordering Sevice" vertex="1">
           <mxGeometry height="160" width="160" x="600" y="40" as="geometry" />
@@ -47,13 +47,28 @@
           <mxGeometry height="30" width="140" x="10" y="120" as="geometry" />
         </mxCell>
         <mxCell id="y4Rq7RO2rklmwW2ovoKj-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Commiting peers" vertex="1">
-          <mxGeometry height="160" width="160" x="330" y="280" as="geometry" />
+          <mxGeometry height="160" width="160" x="320" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-14" parent="y4Rq7RO2rklmwW2ovoKj-13" style="whiteSpace=wrap;html=1;" value="2. Simulate Transaction&amp;nbsp;" vertex="1">
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-14" parent="y4Rq7RO2rklmwW2ovoKj-13" style="whiteSpace=wrap;html=1;" value="Validate Blocks" vertex="1">
           <mxGeometry height="60" width="140" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="y4Rq7RO2rklmwW2ovoKj-15" parent="y4Rq7RO2rklmwW2ovoKj-13" style="whiteSpace=wrap;html=1;" value="3. Endorse Results&amp;nbsp;" vertex="1">
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-15" parent="y4Rq7RO2rklmwW2ovoKj-13" style="whiteSpace=wrap;html=1;" value="Commit to Ledger" vertex="1">
           <mxGeometry height="50" width="140" x="10" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-17" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="215" y="130" as="sourcePoint" />
+            <mxPoint x="295" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-20" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="140" as="sourcePoint" />
+            <mxPoint x="580" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y4Rq7RO2rklmwW2ovoKj-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Deliver to Commiting peers" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
