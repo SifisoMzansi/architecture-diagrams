@@ -5,19 +5,34 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dQEmWYdnmJlkWzHYbZck-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Org 1" vertex="1">
-          <mxGeometry height="480" width="320" x="660" y="20" as="geometry" />
+          <mxGeometry height="320" width="340" x="620" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="dQEmWYdnmJlkWzHYbZck-3" parent="dQEmWYdnmJlkWzHYbZck-1" style="swimlane;whiteSpace=wrap;html=1;" value="Peer 1" vertex="1">
-          <mxGeometry height="200" width="280" x="20" y="40" as="geometry" />
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-3" parent="dQEmWYdnmJlkWzHYbZck-1" style="swimlane;whiteSpace=wrap;html=1;" value="Peer 2" vertex="1">
+          <mxGeometry height="130" width="140" x="180" y="190" as="geometry" />
         </mxCell>
         <mxCell id="dQEmWYdnmJlkWzHYbZck-5" parent="dQEmWYdnmJlkWzHYbZck-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Ledger" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="40" as="geometry" />
+          <mxGeometry height="40" width="120" x="10" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="dQEmWYdnmJlkWzHYbZck-6" parent="dQEmWYdnmJlkWzHYbZck-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Smart Contract" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="40" as="geometry" />
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-6" parent="dQEmWYdnmJlkWzHYbZck-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Chaincode" vertex="1">
+          <mxGeometry height="40" width="120" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQEmWYdnmJlkWzHYbZck-4" parent="dQEmWYdnmJlkWzHYbZck-1" style="swimlane;whiteSpace=wrap;html=1;" value="Peer 2" vertex="1">
-          <mxGeometry height="200" width="280" x="20" y="260" as="geometry" />
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-8" parent="dQEmWYdnmJlkWzHYbZck-1" style="swimlane;whiteSpace=wrap;html=1;" value="Org 1 MSP" vertex="1">
+          <mxGeometry height="130" width="300" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-9" parent="dQEmWYdnmJlkWzHYbZck-8" style="rounded=0;whiteSpace=wrap;html=1;" value="Intermediate CA: CA 2" vertex="1">
+          <mxGeometry height="40" width="270" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-10" parent="dQEmWYdnmJlkWzHYbZck-8" style="rounded=0;whiteSpace=wrap;html=1;" value="Root CA: CA 1" vertex="1">
+          <mxGeometry height="40" width="270" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-11" parent="dQEmWYdnmJlkWzHYbZck-1" style="swimlane;whiteSpace=wrap;html=1;" value="Peer 1" vertex="1">
+          <mxGeometry height="130" width="140" x="20" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-12" parent="dQEmWYdnmJlkWzHYbZck-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Ledger" vertex="1">
+          <mxGeometry height="40" width="120" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dQEmWYdnmJlkWzHYbZck-13" parent="dQEmWYdnmJlkWzHYbZck-11" style="rounded=0;whiteSpace=wrap;html=1;" value="Chaincode" vertex="1">
+          <mxGeometry height="40" width="120" x="10" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
