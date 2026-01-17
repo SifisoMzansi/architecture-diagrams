@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Page-1" id="7YMfIpapZ5mkdYgtPdTf">
-    <mxGraphModel dx="3200" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Chat UI" vertex="1">
-          <mxGeometry height="60" width="120" x="-710" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="-720" y="370" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="API&amp;nbsp;" vertex="1">
-          <mxGeometry height="580" width="1730" x="-530" y="110" as="geometry" />
+          <mxGeometry height="580" width="1850" x="-530" y="110" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-8" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-6">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +25,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-6" parent="k3olKLcamzWplZrjGNnc-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Conversation Store" vertex="1">
-          <mxGeometry height="80" width="120" x="240" y="250" as="geometry" />
+          <mxGeometry height="80" width="120" x="230" y="250" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-10" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Mongo DB" vertex="1">
           <mxGeometry height="30" width="80" x="250" y="210" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-12" parent="k3olKLcamzWplZrjGNnc-3" style="rhombus;whiteSpace=wrap;html=1;" value="Is it a new conversation ?&amp;nbsp;" vertex="1">
           <mxGeometry height="120" width="120" x="440" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-61" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k3olKLcamzWplZrjGNnc-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-15" parent="k3olKLcamzWplZrjGNnc-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Conversation Store" vertex="1">
           <mxGeometry height="60" width="120" x="610" y="100" as="geometry" />
@@ -51,8 +54,10 @@
         <mxCell id="k3olKLcamzWplZrjGNnc-19" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="40" x="450" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-26" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k3olKLcamzWplZrjGNnc-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="k3olKLcamzWplZrjGNnc-26" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-20" parent="k3olKLcamzWplZrjGNnc-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Conversation Thread (add message to thread)" vertex="1">
           <mxGeometry height="80" width="120" x="610" y="240" as="geometry" />
@@ -60,40 +65,85 @@
         <mxCell id="k3olKLcamzWplZrjGNnc-21" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" target="k3olKLcamzWplZrjGNnc-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-29" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-25" parent="k3olKLcamzWplZrjGNnc-3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Send to Agent Ochestrator" vertex="1">
-          <mxGeometry height="80" width="120" x="850" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-9" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;rotation=90;" value="Handle User Request = Payload = Use Id , Message and conversation Id&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="410" x="-120" y="530" as="geometry" />
-        </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-22" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="No" vertex="1">
           <mxGeometry height="30" width="40" x="560" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-33" parent="k3olKLcamzWplZrjGNnc-3" style="swimlane;whiteSpace=wrap;html=1;" value="Choose Agent" vertex="1">
-          <mxGeometry height="390" width="310" x="1060" y="90" as="geometry" />
+        <mxCell id="k3olKLcamzWplZrjGNnc-50" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-33" parent="k3olKLcamzWplZrjGNnc-3" style="swimlane;whiteSpace=wrap;html=1;" value="Agent Ochestratir (Choose Agent)" vertex="1">
+          <mxGeometry height="390" width="310" x="860" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-42" edge="1" parent="k3olKLcamzWplZrjGNnc-33" source="k3olKLcamzWplZrjGNnc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-35" parent="k3olKLcamzWplZrjGNnc-33" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Build System Prompt" vertex="1">
-          <mxGeometry height="60" width="150" x="100" y="90" as="geometry" />
+          <mxGeometry height="60" width="200" x="70" y="90" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-40" edge="1" parent="k3olKLcamzWplZrjGNnc-33" source="k3olKLcamzWplZrjGNnc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-36" parent="k3olKLcamzWplZrjGNnc-33" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Send to LLM" vertex="1">
-          <mxGeometry height="60" width="150" x="90" y="190" as="geometry" />
+          <mxGeometry height="60" width="200" x="70" y="190" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-37" parent="k3olKLcamzWplZrjGNnc-33" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Select Agent" vertex="1">
-          <mxGeometry height="60" width="150" x="80" y="295" as="geometry" />
+          <mxGeometry height="60" width="200" x="70" y="295" as="geometry" />
         </mxCell>
         <mxCell id="k3olKLcamzWplZrjGNnc-38" parent="k3olKLcamzWplZrjGNnc-33" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="prompt llm to select relevant agent based on user msg&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="310" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="k3olKLcamzWplZrjGNnc-39" edge="1" parent="k3olKLcamzWplZrjGNnc-33" source="k3olKLcamzWplZrjGNnc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.548;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" target="k3olKLcamzWplZrjGNnc-36">
+        <mxCell id="k3olKLcamzWplZrjGNnc-54" edge="1" parent="k3olKLcamzWplZrjGNnc-3" source="k3olKLcamzWplZrjGNnc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1650" y="530" />
+              <mxPoint x="90" y="530" />
+            </Array>
+            <mxPoint x="90" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-43" parent="k3olKLcamzWplZrjGNnc-3" style="swimlane;whiteSpace=wrap;html=1;" value="Handle Request" vertex="1">
+          <mxGeometry height="390" width="310" x="1495" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-44" edge="1" parent="k3olKLcamzWplZrjGNnc-43" source="k3olKLcamzWplZrjGNnc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-45" parent="k3olKLcamzWplZrjGNnc-43" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Search Knowledgebase (Rag)" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-46" edge="1" parent="k3olKLcamzWplZrjGNnc-43" source="k3olKLcamzWplZrjGNnc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-47" parent="k3olKLcamzWplZrjGNnc-43" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Send to LLM (Conversation framing)" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-48" parent="k3olKLcamzWplZrjGNnc-43" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Send Response" vertex="1">
+          <mxGeometry height="60" width="200" x="70" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-49" parent="k3olKLcamzWplZrjGNnc-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;Let agent handle the request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="65" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-55" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Respose" vertex="1">
+          <mxGeometry height="30" width="70" x="750" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-60" parent="k3olKLcamzWplZrjGNnc-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Send to Agent Ochestrator" vertex="1">
+          <mxGeometry height="30" width="160" x="705" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-9" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;rotation=90;" value="Handle User Request = Payload = Use Id , Message and conversation Id&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="410" x="-635" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="k3olKLcamzWplZrjGNnc-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-530" y="430" as="sourcePoint" />
+            <mxPoint x="-585" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="request" vertex="1">
+          <mxGeometry height="30" width="60" x="-590" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k3olKLcamzWplZrjGNnc-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="response" vertex="1">
+          <mxGeometry height="30" width="70" x="-605" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
