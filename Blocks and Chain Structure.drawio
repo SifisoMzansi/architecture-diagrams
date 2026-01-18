@@ -1,89 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
   <diagram name="Page-1" id="AO27_slU9Cfzta5wFOIa">
-    <mxGraphModel dx="1111" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-26" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-26" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-27" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-27" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-28" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-28" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-29" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-29" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-30" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-30" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-31" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="140" height="50" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-31" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="80" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-32" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-32" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="320" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-33" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-33" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="320" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-34" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-34" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="320" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-35" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-35" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="320" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-36" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-36" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="320" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-37" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="140" height="50" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-37" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="320" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-38" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-38" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#2A38FF;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Header&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-39" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-39" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Block Hash Value&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-40" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-40" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Transaction Data&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-41" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-41" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Timestamp&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-42" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="140" height="40" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-42" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Nonce&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-43" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="140" height="50" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-43" parent="1" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" value="&lt;p style=&quot;margin:13px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Hash value of previous block&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="560" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Blockchain Block Structure&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-30" width="210" height="30" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-44" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Blockchain Block Structure&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="275" y="-30" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bBgNtbu_NG_Q1Sfbpsa9-27" target="bBgNtbu_NG_Q1Sfbpsa9-37">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-45" edge="1" parent="1" source="bBgNtbu_NG_Q1Sfbpsa9-27" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="bBgNtbu_NG_Q1Sfbpsa9-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="230" y="100" as="sourcePoint" />
             <mxPoint x="450" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="460" y="97.5" as="sourcePoint" />
             <mxPoint x="560" y="262.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-47" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 1. Genesis Block&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="10" width="140" height="30" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-47" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 1. Genesis Block&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="75" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-48" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 2.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="10" width="70" height="30" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-48" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 2.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="345" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 3.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="10" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Figure 1.3:&amp;nbsp;Blockchain Block Structure&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="308" width="230" height="30" as="geometry" />
+        <mxCell id="bBgNtbu_NG_Q1Sfbpsa9-49" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Block 3.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="585" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
