@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Clients" vertex="1">
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" value="Clients" vertex="1">
           <mxGeometry height="370" width="200" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-3" parent="ZzY18pDsJZoTmqiibiLU-1" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" value="" vertex="1">
@@ -22,10 +22,10 @@
         <mxCell id="ZzY18pDsJZoTmqiibiLU-9" parent="ZzY18pDsJZoTmqiibiLU-6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1" value="Admin Portal" vertex="1">
           <mxGeometry height="60" width="180" x="10" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UNISA SIS" vertex="1">
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" value="UNISA SIS" vertex="1">
           <mxGeometry height="160" width="200" x="40" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-11" parent="ZzY18pDsJZoTmqiibiLU-10" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Graduation Information" vertex="1">
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-11" parent="ZzY18pDsJZoTmqiibiLU-10" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Graduation Information&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="50" y="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-12" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
@@ -34,7 +34,7 @@
             <mxPoint x="130" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Backend Services" vertex="1">
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" value="Backend Services" vertex="1">
           <mxGeometry height="600" width="320" x="320" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-21" parent="ZzY18pDsJZoTmqiibiLU-13" style="swimlane;startSize=0;" value="" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="ZzY18pDsJZoTmqiibiLU-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTPS" vertex="1">
           <mxGeometry height="30" width="60" x="240" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-44" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Blockchain API\ Fabric Gateway" vertex="1">
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-44" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;" value="Blockchain API\ Fabric Gateway" vertex="1">
           <mxGeometry height="600" width="320" x="720" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-47" parent="ZzY18pDsJZoTmqiibiLU-44" style="swimlane;whiteSpace=wrap;html=1;" value="Blockchain Network" vertex="1">
