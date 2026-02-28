@@ -92,22 +92,50 @@
           <mxGeometry height="600" width="320" x="720" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-47" parent="ZzY18pDsJZoTmqiibiLU-44" style="swimlane;whiteSpace=wrap;html=1;" value="Blockchain Network" vertex="1">
-          <mxGeometry height="560" width="320" y="50" as="geometry" />
+          <mxGeometry height="560" width="320" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-51" parent="ZzY18pDsJZoTmqiibiLU-47" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="University A" vertex="1">
-          <mxGeometry height="200" width="130" x="10" y="130" as="geometry" />
+          <mxGeometry height="240" width="140" x="10" y="160" as="geometry">
+            <mxRectangle height="30" width="100" x="10" y="160" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-54" parent="ZzY18pDsJZoTmqiibiLU-51" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Certificate Authority" vertex="1">
-          <mxGeometry height="30" width="110" x="10" y="50" as="geometry" />
+          <mxGeometry height="30" width="120" x="10" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-55" parent="ZzY18pDsJZoTmqiibiLU-51" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Peer 0" vertex="1">
-          <mxGeometry height="30" width="90" x="20" y="100" as="geometry" />
+          <mxGeometry height="30" width="90" x="20" y="90" as="geometry" />
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-56" parent="ZzY18pDsJZoTmqiibiLU-51" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Couch DB" vertex="1">
-          <mxGeometry height="30" width="110" x="10" y="150" as="geometry" />
+          <mxGeometry height="30" width="120" x="10" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-53" parent="ZzY18pDsJZoTmqiibiLU-47" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="University B" vertex="1">
-          <mxGeometry height="200" width="130" x="160" y="130" as="geometry" />
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-57" parent="ZzY18pDsJZoTmqiibiLU-51" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Chaincode - GoLang" vertex="1">
+          <mxGeometry height="30" width="120" x="10" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-58" parent="ZzY18pDsJZoTmqiibiLU-47" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="University B" vertex="1">
+          <mxGeometry height="240" width="140" x="170" y="160" as="geometry">
+            <mxRectangle height="30" width="100" x="10" y="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-59" parent="ZzY18pDsJZoTmqiibiLU-58" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Certificate Authority" vertex="1">
+          <mxGeometry height="30" width="120" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-60" parent="ZzY18pDsJZoTmqiibiLU-58" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Peer 0" vertex="1">
+          <mxGeometry height="30" width="90" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-61" parent="ZzY18pDsJZoTmqiibiLU-58" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Couch DB" vertex="1">
+          <mxGeometry height="30" width="120" x="10" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-62" parent="ZzY18pDsJZoTmqiibiLU-58" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Chaincode - GoLang" vertex="1">
+          <mxGeometry height="30" width="120" x="10" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-50" parent="ZzY18pDsJZoTmqiibiLU-47" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Chanel" vertex="1">
+          <mxGeometry height="30" width="160" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-49" edge="1" parent="ZzY18pDsJZoTmqiibiLU-47" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="20" y="110" as="sourcePoint" />
+            <mxPoint x="310" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZzY18pDsJZoTmqiibiLU-45" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -118,19 +146,8 @@
         <mxCell id="ZzY18pDsJZoTmqiibiLU-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTPS" vertex="1">
           <mxGeometry height="30" width="60" x="650" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-49" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="760" y="200" as="sourcePoint" />
-            <mxPoint x="1000" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-52" connectable="0" parent="ZzY18pDsJZoTmqiibiLU-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
-          <mxGeometry relative="1" x="-0.6103" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZzY18pDsJZoTmqiibiLU-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Chanel" vertex="1">
-          <mxGeometry height="30" width="160" x="780" y="160" as="geometry" />
+        <mxCell id="ZzY18pDsJZoTmqiibiLU-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="On Chain&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="170" x="770" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
