@@ -85,7 +85,7 @@
           <mxGeometry height="60" width="210" x="20" y="420" as="geometry" />
         </mxCell>
         <mxCell id="uRHGljsWQXF6_n12xJLz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
-          <mxGeometry height="30" width="60" x="160" y="220" as="geometry" />
+          <mxGeometry height="30" width="60" x="210" y="230" as="geometry" />
         </mxCell>
         <mxCell id="uRHGljsWQXF6_n12xJLz-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="uRHGljsWQXF6_n12xJLz-17" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="uRHGljsWQXF6_n12xJLz-34" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Move to Correspondence" vertex="1">
           <mxGeometry height="50" width="210" x="530" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHGljsWQXF6_n12xJLz-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="uRHGljsWQXF6_n12xJLz-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
