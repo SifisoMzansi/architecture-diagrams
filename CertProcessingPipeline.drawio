@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;SIS (Student InformationSystem)&lt;/b&gt;" vertex="1">
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;SIS (Student InformationSystem)&lt;/b&gt;" vertex="1">
           <mxGeometry height="85" width="120" x="40" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. Data Extracted" vertex="1">
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;1. Data Extracted&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="170" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Import Sevice" vertex="1">
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Import Sevice" vertex="1">
           <mxGeometry height="80" width="60" x="240" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. Publish to RabbitMQ" vertex="1">
-          <mxGeometry height="30" width="70" x="320" y="120" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;2. Publish to RabbitMQ&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="310" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;RabbitMQ &lt;/b&gt;(Event Bus)" vertex="1">
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;RabbitMQ &lt;/b&gt;(Event Bus)" vertex="1">
           <mxGeometry height="82.5" width="80" x="400" y="117.5" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Certificate Generator&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Digital Signing&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="80" x="580" y="115" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Certificate Generator&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Digital Signing&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="315" width="80" x="580" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3. Certificate Generated and signed.&amp;nbsp;" vertex="1">
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="3. Certificate Generated and signed.&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="90" x="480" y="120" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-9" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" value="" vertex="1">
@@ -31,23 +31,23 @@
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-10" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" value="" vertex="1">
           <mxGeometry height="16.5" width="30" x="520" y="193.5" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Storage (Off-Chain)&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="100" x="420" y="240" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Storage (Off-Chain)&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="100" x="270" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="85" width="101.5" x="418.5" y="360" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="85" width="101.5" x="270" y="350" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.blockchain_resource;" value="" vertex="1">
-          <mxGeometry height="25" width="78" x="427" y="410" as="geometry" />
+          <mxGeometry height="25" width="78" x="282" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Certificate Become Verifiable&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="100" x="200" y="250" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;&lt;b&gt;Certificate Become Verifiable&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="120" x="40" y="245" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. Stored in Off-chain storage" vertex="1">
-          <mxGeometry height="60" width="90" x="520" y="210" as="geometry" />
+          <mxGeometry height="60" width="90" x="390" y="220" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5. Hash computed + Metadata" vertex="1">
-          <mxGeometry height="30" width="80" x="520" y="345" as="geometry" />
+          <mxGeometry height="30" width="100" x="385" y="415" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-22" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -69,45 +69,33 @@
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="600" y="282" as="sourcePoint" />
-            <mxPoint x="530" y="282" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-27" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="600" y="410" as="sourcePoint" />
-            <mxPoint x="530" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-28" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="620" y="210" as="sourcePoint" />
-            <mxPoint x="620" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-29" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="619.5" y="320" as="sourcePoint" />
-            <mxPoint x="619.5" y="390" as="targetPoint" />
+            <mxPoint x="540" y="290" as="sourcePoint" />
+            <mxPoint x="400" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Blockchain Storage" vertex="1">
-          <mxGeometry height="30" width="60" x="436" y="370" as="geometry" />
+          <mxGeometry height="30" width="60" x="290" y="360" as="geometry" />
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="320" y="400" as="targetPoint" />
+            <mxPoint x="240" y="384.5" as="sourcePoint" />
+            <mxPoint x="170" y="384.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bPG-0cZ5DNy6S87EBSHH-32" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="390" y="290" as="sourcePoint" />
-            <mxPoint x="320" y="290" as="targetPoint" />
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="170" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPG-0cZ5DNy6S87EBSHH-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Certificate Processing Pipeline" vertex="1">
-          <mxGeometry height="30" width="280" x="180" y="40" as="geometry" />
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-36" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPG-0cZ5DNy6S87EBSHH-37" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="360" width="640" x="30" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
