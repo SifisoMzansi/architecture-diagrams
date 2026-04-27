@@ -97,6 +97,9 @@
             <mxRectangle height="97" width="247" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="Blockchain VS Traditional DB" vertex="1">
+          <mxGeometry height="40" width="360" x="220" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
