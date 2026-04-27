@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="cBqwS1CwqNPRfLVDPzgH">
-    <mxGraphModel>
+    <mxGraphModel dx="1012" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-22" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="400" width="710" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-23" parent="HmKCRQ8ShaCbDVkgiyL2-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="49" width="710" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-38" parent="HmKCRQ8ShaCbDVkgiyL2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Feature&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="232" as="geometry">
+            <mxRectangle height="49" width="232" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-24" parent="HmKCRQ8ShaCbDVkgiyL2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Hyperledger Fabric (Blockchain)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="231" x="232" as="geometry">
+            <mxRectangle height="49" width="231" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-25" parent="HmKCRQ8ShaCbDVkgiyL2-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#36393d;overflow=hidden;fillColor=#ffff88;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Traditional Database (SQL/NoSQL)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="49" width="247" x="463" as="geometry">
+            <mxRectangle height="49" width="247" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-26" parent="HmKCRQ8ShaCbDVkgiyL2-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="84" width="710" y="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-39" parent="HmKCRQ8ShaCbDVkgiyL2-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Trust Model" vertex="1">
+          <mxGeometry height="84" width="232" as="geometry">
+            <mxRectangle height="84" width="232" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-27" parent="HmKCRQ8ShaCbDVkgiyL2-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,1,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Decentralized/Distributed.&lt;/b&gt; No single party owns the entire truth; multiple organizations validate data." vertex="1">
+          <mxGeometry height="84" width="231" x="232" as="geometry">
+            <mxRectangle height="84" width="231" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-28" parent="HmKCRQ8ShaCbDVkgiyL2-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,1,2,0&quot; data-index-in-node=&quot;0&quot;&gt;Centralized.&lt;/b&gt; Managed by a single administrator or organization that has full control." vertex="1">
+          <mxGeometry height="84" width="247" x="463" as="geometry">
+            <mxRectangle height="84" width="247" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-29" parent="HmKCRQ8ShaCbDVkgiyL2-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="85" width="710" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-40" parent="HmKCRQ8ShaCbDVkgiyL2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Immutability" vertex="1">
+          <mxGeometry height="85" width="232" as="geometry">
+            <mxRectangle height="85" width="232" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-30" parent="HmKCRQ8ShaCbDVkgiyL2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,2,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Append-only.&lt;/b&gt; Once a block is written, it cannot be &lt;b&gt;deleted or changed &lt;/b&gt;without breaking the hash chain." vertex="1">
+          <mxGeometry height="85" width="231" x="232" as="geometry">
+            <mxRectangle height="85" width="231" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-31" parent="HmKCRQ8ShaCbDVkgiyL2-29" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,2,2,0&quot; data-index-in-node=&quot;0&quot;&gt;Editable.&lt;/b&gt; Data can be modified or deleted (CRUD) by anyone with administrative privileges." vertex="1">
+          <mxGeometry height="85" width="247" x="463" as="geometry">
+            <mxRectangle height="85" width="247" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-32" parent="HmKCRQ8ShaCbDVkgiyL2-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="85" width="710" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-41" parent="HmKCRQ8ShaCbDVkgiyL2-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Data Integrity" vertex="1">
+          <mxGeometry height="85" width="232" as="geometry">
+            <mxRectangle height="85" width="232" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-33" parent="HmKCRQ8ShaCbDVkgiyL2-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,3,1,0&quot; data-index-in-node=&quot;0&quot;&gt;High.&lt;/b&gt; Built-in cryptographic hashing ensures data hasn&#39;t been tampered with." vertex="1">
+          <mxGeometry height="85" width="231" x="232" as="geometry">
+            <mxRectangle height="85" width="231" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-34" parent="HmKCRQ8ShaCbDVkgiyL2-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,3,2,0&quot; data-index-in-node=&quot;0&quot;&gt;Moderate.&lt;/b&gt; Relies on external audits, logs, and database security protocols." vertex="1">
+          <mxGeometry height="85" width="247" x="463" as="geometry">
+            <mxRectangle height="85" width="247" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-35" parent="HmKCRQ8ShaCbDVkgiyL2-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="97" width="710" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-42" parent="HmKCRQ8ShaCbDVkgiyL2-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Transparency" vertex="1">
+          <mxGeometry height="97" width="232" as="geometry">
+            <mxRectangle height="97" width="232" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-36" parent="HmKCRQ8ShaCbDVkgiyL2-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,4,1,0&quot; data-index-in-node=&quot;0&quot;&gt;Auditable History.&lt;/b&gt; A complete, verifiable trail of every change (provenance) is stored by default." vertex="1">
+          <mxGeometry height="97" width="231" x="232" as="geometry">
+            <mxRectangle height="97" width="231" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmKCRQ8ShaCbDVkgiyL2-37" parent="HmKCRQ8ShaCbDVkgiyL2-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="&lt;b data-path-to-node=&quot;3,4,2,0&quot; data-index-in-node=&quot;0&quot;&gt;State-only.&lt;/b&gt; Usually only shows the current value unless complex &quot;Audit Tables&quot; are manually built." vertex="1">
+          <mxGeometry height="97" width="247" x="463" as="geometry">
+            <mxRectangle height="97" width="247" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
