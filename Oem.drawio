@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hnlrqkOPYfu0P3iveFwE">
-    <mxGraphModel>
+    <mxGraphModel dx="883" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Apple" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Oracle" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OEM" vertex="1">
+          <mxGeometry height="60" width="230" x="550" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-13" edge="1" parent="1" source="KV9mXKYNza6xMO5Pq0Vn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="250" />
+              <mxPoint x="530" y="250" />
+            </Array>
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-5" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Centralized Training Management Platform (API" vertex="1">
+          <mxGeometry height="150" width="220" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="350" as="sourcePoint" />
+            <mxPoint x="610" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-12" edge="1" parent="1" source="KV9mXKYNza6xMO5Pq0Vn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" target="KV9mXKYNza6xMO5Pq0Vn-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UNISA Website" vertex="1">
+          <mxGeometry height="200" width="140" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-10" parent="KV9mXKYNza6xMO5Pq0Vn-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phone" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-11" parent="KV9mXKYNza6xMO5Pq0Vn-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Computer" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Take Time" vertex="1">
+          <mxGeometry height="30" width="170" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="UNISA Website" vertex="1">
+          <mxGeometry height="200" width="170" x="330" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-16" parent="KV9mXKYNza6xMO5Pq0Vn-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phone" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-17" parent="KV9mXKYNza6xMO5Pq0Vn-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Computer" vertex="1">
+          <mxGeometry height="30" width="60" x="20" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Apple" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Oracle" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OEM" vertex="1">
+          <mxGeometry height="60" width="230" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-22" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="520" as="sourcePoint" />
+            <mxPoint x="630" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-23" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="609.58" as="sourcePoint" />
+            <mxPoint x="630" y="609.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-24" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="710" as="sourcePoint" />
+            <mxPoint x="630" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Links to&amp;nbsp; OEM" vertex="1">
+          <mxGeometry height="30" width="90" x="540" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Links to&amp;nbsp; OEM" vertex="1">
+          <mxGeometry height="30" width="90" x="540" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-27" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="My Unisa" vertex="1">
+          <mxGeometry height="200" width="290" x="250" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-28" parent="KV9mXKYNza6xMO5Pq0Vn-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Centralized Training Management" vertex="1">
+          <mxGeometry height="30" width="240" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-29" parent="KV9mXKYNza6xMO5Pq0Vn-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Apple Training :&amp;nbsp;&lt;div&gt;list of training programs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="30" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KV9mXKYNza6xMO5Pq0Vn-30" parent="KV9mXKYNza6xMO5Pq0Vn-27" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MicrosoftTraining :&amp;nbsp;&lt;div&gt;list of training programs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="190" x="30" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
